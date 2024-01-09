@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   busybox:
   - apiVersion: v1
-    created: "2024-01-09T16:58:22.182487-05:00"
+    created: "2024-01-09T17:18:06.307637-05:00"
     description: A utility chart to verify clusters and processes
-    digest: 61cbd57060cdae3d63f7aed6c0efc4f379e183c337bf4b88a4c810d825fa7bf1
+    digest: f17aa1389df85b72c41303e555edeb7e24b03afc6165dda9a2d06b1b315c7508
     home: https://www.busybox.net/
     icon: https://www.busybox.net/images/busybox1.png
     keywords:
@@ -22,11 +22,11 @@ entries:
     version: 0.1.0
   openvpn:
   - apiVersion: v1
-    created: "2024-01-09T16:58:22.182985-05:00"
+    created: "2024-01-09T17:18:06.308141-05:00"
     description: A Helm chart to install an openvpn server inside a kubernetes cluster.  Certificate
       generation is also part of the deployment, and this chart will generate client
       keys as needed.
-    digest: 42eccfa926dbd2d1a1e4e9f4e18ba0f64547fd0af0f0eed111308018eb90e7ea
+    digest: 8506b78d7cf84c6d19c19e04a55762f288772eb473e69ff2d51c340a79528dab
     home: https://openvpn.net/index.php/open-source.html
     icon: https://forums.openvpn.net/styles/openvpn/theme/images/ovpnlogo.png
     keywords:
@@ -46,20 +46,20 @@ entries:
     version: 1.0.2
   squidguard-elk:
   - apiVersion: v1
-    created: "2024-01-09T16:58:22.183361-05:00"
+    created: "2024-01-09T17:18:06.308526-05:00"
     description: A Helm chart for Kubernetes
-    digest: 39f82b441a0eb2dd7bc8b54efe9aa5898ef538ad8b0befd55fb4c78a18376689
+    digest: e477e4006fefe931d46d830e404bbe729d1f1a447843db4e585445d293e9ca15
     name: squidguard-elk
     urls:
     - https://ben833.github.io/helm-charts/charts/squidguard-elk-0.1.0.tgz
     version: 0.1.0
   x2go:
   - apiVersion: v1
-    created: "2024-01-09T16:58:22.18364-05:00"
+    created: "2024-01-09T17:18:06.308825-05:00"
     description: Base chart for gui applications
-    digest: 87d7a902036242079ce088c40c3a7c635841ed411c1536d200fb236083eba979
+    digest: 54deb4e0260a1f9759003baae74d8920ae19b53f60789ff6dc45e92f04e22107
     name: x2go
     urls:
     - https://ben833.github.io/helm-charts/charts/x2go-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-09T16:58:22.181545-05:00"
+generated: "2024-01-09T17:18:06.307114-05:00"
